@@ -2,7 +2,7 @@
 
 ## Summary
 
-Console implementation of the BlackJack game
+Console implementation of the Blackjack game
 
 <a href="https://imgur.com/3upTpCL"><img src="https://i.imgur.com/3upTpCL.gif" title="source: imgur.com" /></a>
 
@@ -25,8 +25,9 @@ Console implementation of the BlackJack game
 - Statistics (win, lose and draw percentages are shown in options)
 
 ## Note
-This project helped me learn C++ back in 2016, thus 
+- This project helped me learn C++ back in 2016, thus it is no way up to par with current coding skills
+- Card splitting is not implemented
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIzNTMyMjcsLTE4OTUxMTUzNSwtNj
-g0NDI5NzMyXX0=
+eyJoaXN0b3J5IjpbOTcxNzk0NTk3LC0xODk1MTE1MzUsLTY4ND
+QyOTczMl19
 -->
