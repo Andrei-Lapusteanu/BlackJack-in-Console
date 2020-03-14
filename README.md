@@ -1,4 +1,4 @@
-# BlackJack-Command-Line
+# BlackJack-in-Console
 
 ## Summary
 
@@ -28,6 +28,6 @@ Console implementation of the Blackjack game
 - This project helped me learn C++ back in 2016, thus it is no way up to par with current coding skills
 - Card splitting is not implemented
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNzk0NTk3LC0xODk1MTE1MzUsLTY4ND
-QyOTczMl19
+eyJoaXN0b3J5IjpbLTQ1NDExMTM4MCwtMTg5NTExNTM1LC02OD
+Q0Mjk3MzJdfQ==
 -->
