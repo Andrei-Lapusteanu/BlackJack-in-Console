@@ -10,8 +10,16 @@ Console implementation of the BlackJack game
 - Written entirely in **C++** with the console as output
 
 # Functionalities
-- Implements standard dealer behavi
+
+- Player actions available:
+	- Hit
+	- Stand
+	- Surrender
+	- Double down
+	- Ins 
+- Implements standard dealer behavior
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MDQ0MTksLTE4OTUxMTUzNSwtNjg0ND
-I5NzMyXX0=
+eyJoaXN0b3J5IjpbLTExNDgxODM5MzAsLTE4OTUxMTUzNSwtNj
+g0NDI5NzMyXX0=
 -->
