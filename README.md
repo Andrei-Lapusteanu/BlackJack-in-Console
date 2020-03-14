@@ -16,10 +16,13 @@ Console implementation of the BlackJack game
 	- Stand
 	- Surrender
 	- Double down
-	- Ins 
+	- Insurance 
 - Implements standard dealer behavior
+- Simple points (*money*) system, saved between play sessions
+- Supports 2 betting modes
+	- Casion - where you select your bet using chip
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgxODM5MzAsLTE4OTUxMTUzNSwtNj
+eyJoaXN0b3J5IjpbLTE5MzExMDU5MTUsLTE4OTUxMTUzNSwtNj
 g0NDI5NzMyXX0=
 -->
