@@ -20,9 +20,13 @@ Console implementation of the BlackJack game
 - Implements standard dealer behavior
 - Simple points (*money*) system, saved between play sessions
 - Supports 2 betting modes
-	- Casion - where you select your bet using chip
-- 
+	- Casino - where you select your bet using chips
+	- Standard - where you enter the sum you wish to bet
+- Statistics (win, lose and draw percentages are shown in options)
+
+## Note
+This project helped me learn C++ back in 2016, thus 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzExMDU5MTUsLTE4OTUxMTUzNSwtNj
+eyJoaXN0b3J5IjpbLTE1ODIzNTMyMjcsLTE4OTUxMTUzNSwtNj
 g0NDI5NzMyXX0=
 -->
