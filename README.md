@@ -2,7 +2,9 @@
 
 ## Summary
 
-Command lin
+Console implementation of the BlackJack game\
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDQyOTczMl19
+eyJoaXN0b3J5IjpbLTE4OTUxMTUzNSwtNjg0NDI5NzMyXX0=
 -->
